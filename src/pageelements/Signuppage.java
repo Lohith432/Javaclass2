@@ -6,9 +6,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class Signup {
+public class Signuppage {
    WebDriver driver;
-	public Signup(WebDriver driverhere) {
+	public Signuppage(WebDriver driverhere) {
 	this.driver =  driverhere;
 	PageFactory.initElements(driver, this);
 	

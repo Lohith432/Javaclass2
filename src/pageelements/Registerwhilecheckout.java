@@ -10,7 +10,7 @@ import utilities.AbstractMethods;
 
 public class Registerwhilecheckout extends AbstractMethods {
 	WebDriver driver;
-	public Signup sp;
+	public Signuppage sp;
 	public Register rg;
 
 	public Registerwhilecheckout(WebDriver driverhere) {
