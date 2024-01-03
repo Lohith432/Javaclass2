@@ -37,7 +37,7 @@ public class Logoutuser extends AbstractMethods {
 		implicitlywaitmethod();
 		login.click();
 		System.out.println(" Verify 'Login to your account' is visible");
-		enteremail.sendKeys("nanilohith13@gmail.com");
+		enteremail.sendKeys("nanilohith4444@gmail.com");
 		Password.sendKeys("nanijaya");
 		submitbutton.sendKeys(Keys.ENTER);
 		System.out.println("Verify that 'Logged in as username' is visible");
